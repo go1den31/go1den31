@@ -3,6 +3,12 @@
 Documenting my **homelab journey**, server builds, and self-hosted services.  
 Learning **Linux** and DevOps fundamentals through real hands-on projects on my own hardware.
 
+## 👨‍💻 About Me
+
+I'm Mark — a cybersecurity student and homelab enthusiast based in Israel.  
+I focus on learning Linux, system security, and understanding how real infrastructure works by running my own self-hosted services at home.  
+My homelab is a practical way for me to improve my skills in networking, server management, and secure system administration.
+
 ---
 
 # 🧩 What I'm Working On
