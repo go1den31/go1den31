@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Mark  
 
 Documenting my **homelab journey**, server builds, and self-hosted services.  
-Learning **DevOps fundamentals** by running real infrastructure on my own hardware.
+Learning **Linux** and DevOps fundamentals through real hands-on projects on my own hardware.
 
 ---
 
@@ -52,16 +52,6 @@ Everything deployed with **Docker & Docker Compose**, hardened with firewall rul
 
 ---
 
-# 🧰 Hardware
-
-- **OS:** Debian 12  
-- **Reverse proxy:** Nginx  
-- **DNS & SSL:** Cloudflare  
-- **Monitoring:** Telegram bot + systemd timer  
-- **Deployment:** Docker & Docker Compose  
-
----
-
 # 📌 Featured Projects
 
 - **Home-Server-Debian** — main homelab setup  
@@ -73,16 +63,10 @@ Everything deployed with **Docker & Docker Compose**, hardened with firewall rul
 
 ---
 
-# 🎯 Why I'm Doing This
+# 📈 GitHub Stats
 
-To learn real DevOps skills by managing my own infrastructure:
+![Mark's GitHub stats](https://github-readme-stats.vercel.app/api?username=go1den31&show_icons=true&theme=dark)
 
-- Docker  
-- Linux  
-- Networking  
-- Reverse proxy  
-- SSL  
-- Automation  
-- Monitoring  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=go1den31&layout=compact&theme=dark)
 
-Instead of just reading theory.
+![GitHub Streak](https://streak-stats.demolab.com/?user=go1den31&theme=dark)
